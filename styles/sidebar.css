@@ -1,0 +1,9 @@
+.a-svg-div svg{
+  fill: red;
+}
+.part-1 div{
+  margin-bottom: 45px;
+}
+nav svg{
+  cursor: pointer;
+}
